@@ -6,24 +6,24 @@ This project detects and extracts key details like Name, DOB, Gender, and Aadhaa
 
 🚀 Steps Performed
 
-Data Collection – Downloaded dataset from Roboflow (CC BY 4.0).
+1. Data Collection – Downloaded dataset from Roboflow (CC BY 4.0).
 
-Image Cleaning – Removed duplicates and corrupted files.
+2. Image Cleaning – Removed duplicates and corrupted files.
 
-Data Augmentation – Applied rotation, brightness, and noise adjustments using Albumentations.
+3. Data Augmentation – Applied rotation, brightness, and noise adjustments using Albumentations.
 
-Label Formatting – Converted labels to YOLO format.
+4. Label Formatting – Converted labels to YOLO format.
 
-Dataset Summary – Generated a summary report with image and label counts.
+5. Dataset Summary – Generated a summary report with image and label counts.
 
 ⚙️ Tech Stack
 
-Python
+1. Python
 
-OpenCV
+2. OpenCV
 
-Albumentations
+3. Albumentations
 
-NumPy
+4. NumPy
 
-Pandas
+5. Pandas
