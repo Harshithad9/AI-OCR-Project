@@ -1,0 +1,21 @@
+📊 DATASET SUMMARY REPORT
+========================================
+
+📁 TRAIN SET:
+ - Images: 1852
+ - Labels: 1852
+ - Mismatched files: 0
+
+📁 VALID SET:
+ - Images: 529
+ - Labels: 529
+ - Mismatched files: 0
+
+📁 TEST SET:
+ - Images: 265
+ - Labels: 265
+ - Mismatched files: 0
+========================================
+✅ TOTAL IMAGES: 2646
+✅ TOTAL LABELS: 2646
+========================================

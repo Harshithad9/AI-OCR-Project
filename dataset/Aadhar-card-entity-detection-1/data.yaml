@@ -1,0 +1,16 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: aadhar-card-entity-detection
+  url: https://universe.roboflow.com/jizo/aadhar-card-entity-detection/dataset/1
+  version: 1
+  workspace: jizo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
