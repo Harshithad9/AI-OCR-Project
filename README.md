@@ -67,27 +67,6 @@ Applied transformations to increase image variability:
 
 ---
 
-## 📁 Project Structure (current)
-AI-OCR-DataPreprocessing/
-│
-├── data/
-│ ├── raw/ # Original images
-│ ├── cleaned/ # Preprocessed images
-│ ├── augmented/ # Augmented data
-│ └── labels/ # Label files
-│
-├── preprocessing/
-│ ├── image_cleaning.py
-│ ├── data_augmentation.py
-│ └── label_formatter.py
-│
-├── LICENSE
-└── README.md
-
----
-
----
-
 ## 🧠 Tech Stack
 - Python  
 - OpenCV  
@@ -105,8 +84,6 @@ AI-OCR-DataPreprocessing/
 |-----------|-------------|--------|
 | 1 | Data Collection & Preprocessing | ✅ Completed |
 | 2 | Model Training & Evaluation | 🔄 In Progress |
-| 3 | Backend Integration (API) | ⏳ Pending |
-| 4 | UI/UX + Deployment | ⏳ Pending |
 
 ---
 
@@ -121,6 +98,18 @@ AI-OCR-DataPreprocessing/
 This project is licensed under the **MIT License**.
 
 The full license can be found in the `LICENSE` file.
+
+Copyright (c) 2025 Vidzai Digital
+
+---
+
+## 🙌 Acknowledgment
+Dataset Source:
+- Roboflow – *Aadhar Card Entity Detection* (CC BY 4.0)
+
+---
+
+
 
 
 
