@@ -84,6 +84,43 @@ AI-OCR-DataPreprocessing/
 ├── LICENSE
 └── README.md
 
+---
+
+---
+
+## 🧠 Tech Stack
+- Python  
+- OpenCV  
+- Albumentations  
+- NumPy  
+- Pandas  
+
+> Future: Azure AI Document Intelligence, OCR/NER models  
+
+---
+
+## 🔄 Milestones Progress
+
+| Milestone | Description | Status |
+|-----------|-------------|--------|
+| 1 | Data Collection & Preprocessing | ✅ Completed |
+| 2 | Model Training & Evaluation | 🔄 In Progress |
+| 3 | Backend Integration (API) | ⏳ Pending |
+| 4 | UI/UX + Deployment | ⏳ Pending |
+
+---
+
+## 🚀 Next Steps
+- Train Azure OCR model  
+- Measure entity-level accuracy  
+- Improve dataset with additional synthetic samples  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+The full license can be found in the `LICENSE` file.
 
 
 
