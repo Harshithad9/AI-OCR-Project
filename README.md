@@ -68,6 +68,21 @@ Applied transformations to increase image variability:
 ---
 
 ## 📁 Project Structure (current)
+AI-OCR-DataPreprocessing/
+│
+├── data/
+│ ├── raw/ # Original images
+│ ├── cleaned/ # Preprocessed images
+│ ├── augmented/ # Augmented data
+│ └── labels/ # Label files
+│
+├── preprocessing/
+│ ├── image_cleaning.py
+│ ├── data_augmentation.py
+│ └── label_formatter.py
+│
+├── LICENSE
+└── README.md
 
 
 
