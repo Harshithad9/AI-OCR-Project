@@ -1,0 +1,11 @@
+{
+  "document_type": "Aadhaar Card",
+  "extracted_data": {
+    "name": "NIRUPMA PUSHKARNA",
+    "year_of_birth": "1951",
+    "gender": "Female",
+    "aadhaar_number": "8716 0813 8875"
+  },
+  "analysis_confidence": "Prebuilt Model — No training required",
+  "processing_timestamp": "2025-02-15T18:45:00Z"
+}
