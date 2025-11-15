@@ -75,10 +75,10 @@ A synthetic Aadhaar sample was uploaded to the **Prebuilt Identity Model** in Do
 ### 2️⃣ Extract Text
 Azure returned structured paragraphs such as:
 
-भारत सरकार GOVERNMENT OF INDIA
-निरुपमा पुष्करणा NIRUPMA PUSHKARNA जन्म वर्ष YOB: 1951 महिला Female
-8716 0813 8875
-आधार - आम आदमी का अधिकार
+- भारत सरकार GOVERNMENT OF INDIA
+- निरुपमा पुष्करणा NIRUPMA PUSHKARNA जन्म वर्ष YOB: 1951 महिला Female
+- 8716 0813 8875
+- आधार - आम आदमी का अधिकार
 
 
 Stored in:
